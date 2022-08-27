@@ -1,3 +1,4 @@
+// code referenced from: https://www.youtube.com/watch?v=aHA50b0jLCo
 const signUp = document.getElementById('sign-up'),
     signIn = document.getElementById('sign-in'),
     loginIn = document.getElementById('login-in'),
