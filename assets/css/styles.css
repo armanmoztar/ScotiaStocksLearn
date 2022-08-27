@@ -1,6 +1,6 @@
+/* Code referenced from: https: //www.youtube.com/watch?v=aHA50b0jLCo */
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
-/* Code referenced from: https: //www.youtube.com/watch?v=aHA50b0jLCo */
 /*===== VARIABLES CSS =====*/
 :root{
   --first-color: #88070c;
@@ -12,8 +12,6 @@
   --normal-font-size: .938rem;
   --small-font-size: .813rem;
 }
-
-
 
 @media screen and (min-width: 768px){
   :root{
